@@ -1,6 +1,5 @@
 # Customer-Churn-Prediction-Using-Machine-Learning
 Customer Churn Prediction
-# Customer Churn Prediction Using Machine Learning
 
 A machine learning classification project to predict customer churn using the IBM Telco Customer Churn dataset.
 
